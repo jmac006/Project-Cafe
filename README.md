@@ -1,4 +1,4 @@
-# CS166-Project
+# Cafe Database Project
 
 Created by: Justin Mac and Jonathan Tan
 
@@ -23,6 +23,4 @@ What still needs to be implemented:
   - UpdateMenu
   - Validation checks (Make application more user friendly)
   - Anything extra
-
-Known bugs:
 
